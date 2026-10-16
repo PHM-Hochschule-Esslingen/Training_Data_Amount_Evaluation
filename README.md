@@ -18,4 +18,6 @@ GNU General Public License v3.0
 # Citation
 If you use the dataset or the code provided in this repository, please cite:
 
-Neu, M.; Braig, M.; Mauthe, F.; Zeiler, P. (2026): Estimating Sufficient Amount of Training Data for Data-Driven Fault Diagnosis: Learning Curve Extrapolation and Entropy-Based Stopping Criteria. International Journal of Prognostics and Health Management (submitted)
+Neu, M.; Braig, M.; Mauthe, F.; Zeiler, P. (2026): Estimating Sufficient Amount of Training Data for Data-Driven Fault Diagnosis: Learning Curve Extrapolation and Entropy-Based Stopping Criteria. International Journal of Prognostics and Health Management, Volume 17, Issue 2, DOI: 10.36001/ijphm.2026.v17i2.4834
+
+Paper access: [https://doi.org/10.36001/ijphm.2026.v17i2.4834](https://doi.org/10.36001/ijphm.2026.v17i2.4834)
